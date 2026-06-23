@@ -1,0 +1,16 @@
+# 生成文件
+生成文件/
+
+# VS Code
+.vscode/
+
+# PDF 等二进制大文件
+*.pdf
+*.pptx
+*.doc
+*.docx
+*.jpg
+*.png
+
+# 原始资料（有版权风险的）
+原始资料/
